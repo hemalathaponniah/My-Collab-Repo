@@ -1,0 +1,7 @@
+Menu:
+Pizza
+Pasta
+Raviolli
+Frech Fries
+Juice
+I created a food list
